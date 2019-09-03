@@ -1,3 +1,3 @@
 <?php
-$students=["Asif","Rumman","Hasib","jahid"];
+$students=["Asif","Rumman","Hasib","sriti"];
 ?>
